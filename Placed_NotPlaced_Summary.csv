@@ -1,0 +1,30 @@
+﻿Column Name,Column Value,148 Placed- Value,Placed  %,67 Not Placed- Value,Not Placed %,Diffrence  (Placed % -  Not Placed%)
+SSC_B,Others,70,47,29,43,4
+SSC_B,Central,78,53,38,57,-4
+HSC_B,Central,57,39,27,40,-2
+HSC_B,Others,91,61,40,60,2
+HSC_S,Arts,6,4,5,7,-3
+HSC_S,Commerce,79,53,34,51,3
+HSC_S,Science,63,43,28,42,1
+DEGRREE_T,Comm & Mgmt,102,69,43,64,5
+DEGRREE_T,Others,5,3,6,9,-6
+DEGRREE_T,SCI&TECH,41,28,18,27,1
+WORKEX,Yes,54,39,57,85,-46
+WORKEX,No,84,61,10,15,46
+SPECIALIZATION,MKT&FIN,95,64,25,37,27
+SPECIALIZATION,MKT&HR,53,36,42,63,-27
+ssc_p,<=60,12,8,40,60,-52
+ssc_p,>60 & <=70,57,39,22,33,6
+ssc_p,>70,79,53,5,7,46
+hsc_p,<=60,18,12,33,49,-37
+hsc_p,>60 & <=70,66,45,28,42,3
+hsc_p,>70,64,43,6,9,34
+Degree_p,<=60,15,10,33,49,-39
+Degree_p,>60 & <=70,77,52,28,42,10
+Degree_p,>70,56,38,6,9,29
+etest_p,<=60,38,26,21,31,-6
+etest_p,>60 & <=70,31,21,17,25,-4
+etest_p,>70,79,53,29,43,10
+mba_p,<=60,53,36,28,42,-6
+mba_p,>60 & <=70,76,51,34,51,1
+mba_p,>70,19,13,5,7,5
